@@ -1,0 +1,4 @@
+com/example/ConsumerApplication.class
+com/example/remote/ExampleRemoteHystrix.class
+com/example/remote/ExampleRemote.class
+com/example/controller/ConsumerController.class
